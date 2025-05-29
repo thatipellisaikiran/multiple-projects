@@ -1,0 +1,7 @@
+text,Predicted Issue Type,Predicted Urgency Level,Extracted Entities,timestamp
+My laptop is broken and not working since April 3rd.Recevied the package late and the screen is cracked. The device error persists even after replacing the cable.,Late Delivery,Low,"{""products"": [], ""dates"": [], ""complaint_keywords"": [""broken"", ""late"", ""error"", ""not working""]}",2025-05-28 21:53:22.700905
+"My laptop is broken and not working since April 3rd.
+Received the package late and the screen is cracked. 
+The device error persists even after replacing the cable.",Late Delivery,Low,"{""products"": [], ""dates"": [], ""complaint_keywords"": [""broken"", ""late"", ""error"", ""not working""]}",2025-05-28 21:55:30.378756
+"""My WidgetX was delivered late on May 12, 2024 and is broken.",Late Delivery,Low,"{""products"": [""WidgetX""], ""dates"": [""May 12, 2024""], ""complaint_keywords"": [""broken"", ""late""]}",2025-05-28 22:27:20.006042
+"My WidgetX was delivered late on May 12, 2024 and is broken.",Late Delivery,Low,"{""products"": [""WidgetX""], ""dates"": [""May 12, 2024""], ""complaint_keywords"": [""broken"", ""late""]}",2025-05-29 21:45:37.698780
