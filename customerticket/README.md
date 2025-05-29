@@ -1,4 +1,4 @@
-# 📩 Customer Support Ticket Classification & Entity Extraction
+# 📩 **Customer Support Ticket Classification & Entity Extraction**
 
 ## 🎯 Objective
 Develop a machine learning pipeline that:
@@ -54,7 +54,7 @@ def process_ticket(ticket_text: str) -> dict:
         }
     }
 
-### 6. Optional Gradio Interface
+# 6. **Optional Gradio Interface**
 - Input raw ticket text
 - View predictions + extracted entities
 
